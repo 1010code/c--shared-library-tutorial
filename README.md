@@ -99,3 +99,5 @@ Search Path and Library Linking Flags.
 - [[stackoverflow] Properly Link Libraries in the Command Line](https://stackoverflow.com/questions/33110118/properly-link-libraries-in-the-command-line)
 - [CPP/C++ Compiler Flags and Options](https://caiorss.github.io/C-Cpp-Notes/compiler-flags-options.html)
 - [什麼是SO檔案格式?](https://template.city/so/)
+- [Static vs Dynamic Libraries](https://www.bogotobogo.com/cplusplus/libraries.php)
+- [windows dll 和 Linux so 的異同](https://www.796t.com/content/1546146567.html)
