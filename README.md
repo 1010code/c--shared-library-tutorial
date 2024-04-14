@@ -101,3 +101,4 @@ Search Path and Library Linking Flags.
 - [什麼是SO檔案格式?](https://template.city/so/)
 - [Static vs Dynamic Libraries](https://www.bogotobogo.com/cplusplus/libraries.php)
 - [windows dll 和 Linux so 的異同](https://www.796t.com/content/1546146567.html)
+- [Linux靜態庫與共享庫的使用](https://jasonblog.github.io/note/linked_and_loader/linux_jing_tai_ku_yu_gong_xiang_ku_de_shi_yong.html)
